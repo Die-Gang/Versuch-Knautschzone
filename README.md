@@ -81,3 +81,5 @@
 |   0,993853                                          |                                                      |
 |   1,1443562                                         |                                                      |
 |   1,3432852                                         |                                                      |
+
+![Bild des Vergleichs als Diagramm](https://octodex.github.com/images/yaktocat.png)
