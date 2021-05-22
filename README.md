@@ -82,4 +82,4 @@
 |   1,1443562                                         |                                                      |
 |   1,3432852                                         |                                                      |
 
-![Bild des Vergleichs als Diagramm](https://octodex.github.com/images/yaktocat.png)
+![Bild des Vergleichs als Diagramm](https://github.com/Die-Gang/Versuch-Knautschzone/blob/main/images/Vergleich-Linear-Acceleration-y.jpg)
