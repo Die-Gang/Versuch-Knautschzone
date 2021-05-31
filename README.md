@@ -83,3 +83,8 @@
 |   1,3432852                                         |                                                      |
 
 ![Bild des Vergleichs als Diagramm](https://raw.githubusercontent.com/Die-Gang/Versuch-Knautschzone/main/images/Vergleich-Linear-Acceleration-y.jpg)
+
+###Deutung
+##Y-Achse
+Ohne Knautschzone: Die Geschwindigkeitsänderung dauert ungefähr 3 Zeiteinheiten. Das Fahrzeug erfährt eine maximale Beschleunigung von -40 m/s^2.
+Mit Kanutschzone: Die Geschwindigkeitsänderung dauert ungefähr 17 Zeiteinheiten. Das Fahrzeug erfährt eine maximale Beschleunigung von -19 m/s^2.
