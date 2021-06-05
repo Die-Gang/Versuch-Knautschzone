@@ -34,7 +34,7 @@
 ## Beobachtung
 
 
-### Deutung
-## Y-Achse
+## Deutung
+### Y-Achse
 Ohne Knautschzone: Die Geschwindigkeitsänderung dauert ungefähr 3 Zeiteinheiten. Das Fahrzeug erfährt eine maximale Beschleunigung von -40 m/s^2.
 Mit Kanutschzone: Die Geschwindigkeitsänderung dauert ungefähr 17 Zeiteinheiten. Das Fahrzeug erfährt eine maximale Beschleunigung von -19 m/s^2.
