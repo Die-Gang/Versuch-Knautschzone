@@ -37,6 +37,10 @@
 ## Beobachtung
 
 ![Screenshot - Mit Knautschzone](https://raw.githubusercontent.com/Die-Gang/Versuch-Knautschzone/main/images/ssmk.png)
+*Screenshot - Mit Knautschzone*
+
+![Screenshot - Ohne Knautschzone](https://raw.githubusercontent.com/Die-Gang/Versuch-Knautschzone/main/images/ssok.png)
+*Screenshot - Ohne Knautschzone*
 
 (Screenshots der Messungen)
 
