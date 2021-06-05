@@ -94,6 +94,11 @@
 | 5,66371112 | -0,0882676                    | 0,993853                      | -0,8992076                    | 1,34317136                    |
 | 5,67364313 | -0,0817598                    | 1,14435624                    | 0,32533382                    | 1,1925091                     |
 
+### Diagramme
+
+![Diagramm - Mit Knautschzone](https://raw.githubusercontent.com/Die-Gang/Versuch-Knautschzone/main/images/excimgmkf.png)
+*Diagramm - Mit Knautschzone*
+
 ## Deutung
 ### Y-Achse
 - **Ohne Knautschzone:** Die Geschwindigkeitsänderung dauert ungefähr `3` Zeiteinheiten. Das Fahrzeug erfährt eine maximale Beschleunigung von -40 m/s^2.
