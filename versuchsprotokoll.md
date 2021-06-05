@@ -4,7 +4,7 @@
 
 ### Material
 
-- Playmobil-Fahrzeug (<a href="bild-1">Bild 1</a>)
+- Playmobil-Fahrzeug (<a href="#bild-1">Bild 1</a>)
 - vier halbe Strohhalme
 - zwei Zahnstocher
 - Klebeband
