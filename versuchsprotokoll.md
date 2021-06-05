@@ -38,7 +38,7 @@
 
 !
 
-(Screenshots der ’Messungen’)
+(Screenshots der `Messungen)
 
 ## Deutung
 ### Y-Achse
