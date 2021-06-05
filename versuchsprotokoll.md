@@ -21,14 +21,14 @@
 5. Die beiden Wattebällchen mit Klebeband an einander und danach an das ganze Konstrukt kleben
 6. Einen langen Streifen Klebeband vom Führerhäussschen des Fahrzeuges bis vorne zu den Wattebällchen kleben, um die Konstruktion zu stabilisieren
 7. Smartphone ( oder ein anderes Gerät zum messen der Geschwindigkeit in x,y und z Richtung) wird mit Klebeband auf der Ladefläche des Fahrzeugs befestigt.(x-Achse zeigt in Richtung Wand)
-8. Schiefe Ebene mit einer Steigung von 4° aufbauen
+8. Schiefe Ebene mit einer Steigung von `4°` aufbauen
 
 (Bilder Knautschzone)
 (Zeichnung Versuchsaufbau)
 
 ### Durchführung
 
-1. Das Auto wird ungefähr 40cm (von den vorder Reifen aus gemessen) von der Wand entfernt, auf der schiefen Ebene plaziert, es befindet sich in ruhendem Zustand
+1. Das Auto wird ungefähr `40cm` (von den vorder Reifen aus gemessen) von der Wand entfernt, auf der schiefen Ebene plaziert, es befindet sich in ruhendem Zustand
 2. Das Messgerät wird gestartet
 3. Das Fahrzeug wird losgelassen(nicht angeschubst!)
 4. Die Messung wird gestoppt und die Ergebnisse gespeichert
@@ -38,9 +38,9 @@
 
 !
 
-(Screenshots der `Messungen`)
+(Screenshots der Messungen)
 
 ## Deutung
 ### Y-Achse
-- **Ohne Knautschzone:** Die Geschwindigkeitsänderung dauert ungefähr 3 Zeiteinheiten. Das Fahrzeug erfährt eine maximale Beschleunigung von -40 m/s^2.
-- **Mit Kanutschzone:** Die Geschwindigkeitsänderung dauert ungefähr 17 Zeiteinheiten. Das Fahrzeug erfährt eine maximale Beschleunigung von -19 m/s^2.
+- **Ohne Knautschzone:** Die Geschwindigkeitsänderung dauert ungefähr `3` Zeiteinheiten. Das Fahrzeug erfährt eine maximale Beschleunigung von -40 m/s^2.
+- **Mit Kanutschzone:** Die Geschwindigkeitsänderung dauert ungefähr `17` Zeiteinheiten. Das Fahrzeug erfährt eine maximale Beschleunigung von -19 m/s^2.
