@@ -23,7 +23,8 @@
 7. Smartphone ( oder ein anderes Gerät zum messen der Geschwindigkeit in x,y und z Richtung) wird mit Klebeband auf der Ladefläche des Fahrzeugs befestigt.(x-Achse zeigt in Richtung Wand)
 8. Schiefe Ebene mit einer Steigung von `4°` aufbauen
 
-(Bilder Knautschzone)
+![Bilder der Knautschzone](https://raw.githubusercontent.com/Die-Gang/Versuch-Knautschzone/main/images/knazonbilf.png)
+*Bilder der Knautschzone*
 (Zeichnung Versuchsaufbau)
 
 ### Durchführung
