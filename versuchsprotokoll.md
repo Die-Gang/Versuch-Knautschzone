@@ -222,3 +222,8 @@ Die Knautschzone hat den Aufprall gedämpft, dadurch kam die Verrückung des Fah
 Der Vorteil einer Knautschzone konnte mit diesem Vesuch gut verdeutlicht werden. Die maximale Beschleunigung die der Fahrer und das Fahrzeug erfährt wird deutlich verringert. Dadurch konnte der Sprung des Fahrzeugs in Z-Richtung und der Ausschlag in X-Richtung verhindert werden.
 
 Die Knautschzone aus diesem Versuch wäre an einem realen Auto eher unvorteilhaft, da sie vor dem Auto sehr viel Platz einnimmt. Dadurch ist die Sicht des Fahrers eingeschränkt, die Masse des Fahrzeugs erhöht und die Reduzierung der maximalen Beschleunigung ist vergleichsweise gering.
+
+## Anhang
+
+![Materialien](https://raw.githubusercontent.com/Die-Gang/Versuch-Knautschzone/main/images/anhbilf.png)
+*Materialien: (von oben links, nach unten rechts) Playmobil-Fahrzeug, Klebeband, Mäppchen, großes Polstermaterial länglich, großes Polstermaterial seitlich, kleines Polstermaterial länglich, kleines Polstermaterial seitlich*
