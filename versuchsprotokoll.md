@@ -29,7 +29,7 @@ Führen Sie einen Crashtest gegen eine Wand ohne und mit einer geeigneten Knauts
 4. Das gefaltete Stück Polstermaterial mit Klebeband an das Fahrzeug befestigen
 5. Die beiden Wattebällchen mit Klebeband an einander und danach an das ganze Konstrukt kleben
 6. Einen langen Streifen Klebeband vom Führerhäussschen des Fahrzeuges bis vorne zu den Wattebällchen kleben, um die Konstruktion zu stabilisieren
-7. Smartphone ( oder ein anderes Gerät zum messen der Geschwindigkeit in x,y und z Richtung) wird mit Klebeband auf der Ladefläche des Fahrzeugs befestigt.(x-Achse zeigt in Richtung Wand)
+7. Smartphone (oder ein anderes Gerät zum messen der Geschwindigkeit in x, y und z Richtung) wird mit Klebeband auf der Ladefläche des Fahrzeugs befestigt.(x-Achse zeigt in Richtung Wand)
 8. Schiefe Ebene mit einer Steigung von `4°` aufbauen
 
 <span id="bild-1"></span>
@@ -210,4 +210,6 @@ Die Knautschzone hat den Aufprall gedämpft, dadurch kam die Verrückung des Fah
 
 ### Endergebnis
 
-Der Vorteil einer Knautschzone konnte mit diesem Vesuch gut verdeutlicht werden. Die 
+Der Vorteil einer Knautschzone konnte mit diesem Vesuch gut verdeutlicht werden. Die maximale Beschleunigung die der Fahrer und das Fahrzeug erfährt wird deutlich verringert. Dadurch konnte der Sprung des Fahrzeugs in Z-Richtung und der Ausschlag in X-Richtung verhindert werden.
+
+Die Knautschzone aus diesem Versuch wäre an einem realen Auto eher unvorteilhaft, da sie vor dem Auto sehr viel Platz einnimmt. Dadurch ist die Sicht des Fahrers eingeschränkt, die Masse des Fahrzeugs erhöht und die Reduzierung der maximalen Beschleunigung ist vergleichsweise gering.
