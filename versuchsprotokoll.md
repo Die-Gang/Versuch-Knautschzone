@@ -18,9 +18,9 @@ Führen Sie einen Crashtest gegen eine Wand ohne und mit einer geeigneten Knauts
 - zwei Zahnstocher
 - Klebeband
 - zwei Wattebällchen
-- Polstermaterial<sup>(2)</sup>
-- Brett (min. 60cm)
-- Mäppchen (optimal, sorgt für den Winkel der schiefen Ebene)
+- Polstermaterial (<a href="#bild-1">Bild 1</a>)
+- Brett (min. `60cm`)
+- Mäppchen (Sorgt für den Winkel der schiefen Ebene)
 
 ### Aufbau
 1. Die vier halben Strohhalme an den Ecken der Ladefläche befestigen.
@@ -46,9 +46,9 @@ Führen Sie einen Crashtest gegen eine Wand ohne und mit einer geeigneten Knauts
 
 1. Das Auto wird ungefähr `40cm` (von den vorder Reifen aus gemessen) von der Wand entfernt, auf der schiefen Ebene plaziert, es befindet sich in ruhendem Zustand
 2. Das Messgerät wird gestartet
-3. Das Fahrzeug wird losgelassen(nicht angeschubst!)
+3. Das Fahrzeug wird losgelassen (Ohne es anzustoßen)
 4. Die Messung wird gestoppt und die Ergebnisse gespeichert
-5. Die Durchführung wird wiederholt, aber diesmal wird die Knautschzone auf das Fahrzeug gelegt und befestigt.(Ohne Knautschzone, aber gleiche Masse)
+5. Die Durchführung wird wiederholt, aber diesmal wird die Knautschzone auf das Fahrzeug gelegt und befestigt. (Ohne Knautschzone, aber gleiche Masse)
 
 ## Beobachtung
 
@@ -172,9 +172,9 @@ Führen Sie einen Crashtest gegen eine Wand ohne und mit einer geeigneten Knauts
 `1ZE` ≈ `0,009933s`
 
 ### Y-Achse
-- **Ohne Knautschzone:** Die Beschleunigung dauert ungefähr `3` Zeiteinheiten. Das Fahrzeug erfährt eine maximale Beschleunigung von -40 m/s^2.
-- **Mit Kanutschzone:** Die Beschleunigung dauert ungefähr `17` Zeiteinheiten. Das Fahrzeug erfährt eine maximale Beschleunigung von -19 m/s^2.
-- **Verhältnis maximaler Beschleunigung:** 2,210508636 
+- **Ohne Knautschzone:** Die Beschleunigung dauert ungefähr `3` Zeiteinheiten. Das Fahrzeug erfährt eine maximale Beschleunigung von `-40 m/s^2`.
+- **Mit Kanutschzone:** Die Beschleunigung dauert ungefähr `17` Zeiteinheiten. Das Fahrzeug erfährt eine maximale Beschleunigung von `-19 m/s^2`.
+- **Verhältnis maximaler Beschleunigung:** `2,210508636` 
 
 
 In dem folgenden Diagramm sieht man, dass die Beschleunigung mit Knautschzone deutlich länger dauert, als ohne Knautschzone. Das führt dazu, dass die maximale Beschleunigung mit Knautschzone deutlich geringer ist. Die Beschleunigung ist die Kraft, die auch der Fahrer des Fahrzeugs erfährt und deshalb sollte die maximale Beschleunigung möglichst gering gehalten werden. In diesem Versuch ist sie durch die Knautschzone etwa halb so groß.
@@ -188,7 +188,7 @@ In dem folgenden Diagramm sieht man, dass die Beschleunigung mit Knautschzone de
 
 Der große Ausschlag bei der Fahrt ohne Knautschzone kam zustande, da das Fahrzeug beim Aufprall auf die Wand durch die Erschütterung mit den Hinterrädern ein Stück nach oben flog, dann von der Erdanziehungskraft zurück zum Boden gezogen wurde (der negative Ausschlag nach dem großen positiven Ausschalg) und erneut gegen die Wand prallte.
 
-Die kleinen Schwankungen (0-5) kommen von der Unwucht der Reifen.
+Die kleinen Schwankungen (`0` - `5`) kommen von der Unwucht der Reifen.
 
 <span id="bild-6"></span>
 
