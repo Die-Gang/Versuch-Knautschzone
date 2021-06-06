@@ -33,10 +33,12 @@ Führen Sie einen Crashtest gegen eine Wand ohne und mit einer geeigneten Knauts
 8. Schiefe Ebene mit einer Steigung von `4°` aufbauen
 
 <span id="bild-1"></span>
+
 ![Bilder der Knautschzone](https://raw.githubusercontent.com/Die-Gang/Versuch-Knautschzone/main/images/knazonbilf.png)
 *Bilder der Knautschzone*
 
 <span id="bild-2"></span>
+
 ![Versuchsaufbau](https://raw.githubusercontent.com/Die-Gang/Versuch-Knautschzone/main/images/skizzephyf.png)
 *Versuchsaufbau*
 
@@ -53,10 +55,12 @@ Führen Sie einen Crashtest gegen eine Wand ohne und mit einer geeigneten Knauts
 ### Screenshots aus der PhyPhox App
 
 <span id="bild-3"></span>
+
 ![Screenshot - Mit Knautschzone](https://raw.githubusercontent.com/Die-Gang/Versuch-Knautschzone/main/images/ssmk.png)
 *Screenshot - Mit Knautschzone*
 
 <span id="bild-4"></span>
+
 ![Screenshot - Ohne Knautschzone](https://raw.githubusercontent.com/Die-Gang/Versuch-Knautschzone/main/images/ssok.png)
 *Screenshot - Ohne Knautschzone*
 
@@ -175,7 +179,8 @@ Führen Sie einen Crashtest gegen eine Wand ohne und mit einer geeigneten Knauts
 
 In dem folgenden Diagramm sieht man, dass die Beschleunigung mit Knautschzone deutlich länger dauert, als ohne Knautschzone. Das führt dazu, dass die maximale Beschleunigung mit Knautschzone deutlich geringer ist. Die Beschleunigung ist die Kraft, die auch der Fahrer des Fahrzeugs erfährt und deshalb sollte die maximale Beschleunigung möglichst gering gehalten werden. In diesem Versuch ist sie durch die Knautschzone etwa halb so groß.
 
-<span id="bild-6"></span>
+<span id="bild-5"></span>
+
 ![Vergleich Y-Beschleunigung (Verschoben): Ohne Knautschzone - Mit Knautschzone](https://raw.githubusercontent.com/Die-Gang/Versuch-Knautschzone/main/images/excimgveryf.png)
 *Vergleich Y-Beschleunigung: Ohne Knautschzone - Mit Knautschzone (Verschoben, für gleichzeitigen Aufprall)*
 
@@ -185,7 +190,8 @@ Der große Ausschlag bei der Fahrt ohne Knautschzone kam zustande, da das Fahrze
 
 Die kleinen Schwankungen (0-5) kommen von der Unwucht der Reifen.
 
-<span id="bild-7"></span>
+<span id="bild-6"></span>
+
 ![Vergleich Z-Beschleunigung (Verschoben): Ohne Knautschzone - Mit Knautschzone](https://raw.githubusercontent.com/Die-Gang/Versuch-Knautschzone/main/images/excimgverzf.png)
 *Vergleich Z-Beschleunigung: Ohne Knautschzone - Mit Knautschzone (Verschoben, für gleichzeitigen Aufprall)*
 
@@ -195,7 +201,8 @@ Während das Fahrzeug ohne Knautschzone mit den Hinterrädern ein Stück nach ob
 
 Die Knautschzone hat den Aufprall gedämpft, dadurch kam die Verrückung des Fahrzeugs nicht zustande.
 
-<span id="bild-8"></span>
+<span id="bild-7"></span>
+
 ![Vergleich X-Beschleunigung (Verschoben): Ohne Knautschzone - Mit Knautschzone](https://raw.githubusercontent.com/Die-Gang/Versuch-Knautschzone/main/images/excimgverxf.png)
 *Vergleich X-Beschleunigung: Ohne Knautschzone - Mit Knautschzone (Verschoben, für gleichzeitigen Aufprall)*
 
