@@ -25,7 +25,9 @@
 
 ![Bilder der Knautschzone](https://raw.githubusercontent.com/Die-Gang/Versuch-Knautschzone/main/images/knazonbilf.png)
 *Bilder der Knautschzone*
-(Zeichnung Versuchsaufbau)
+
+![Versuchsaufbau](https://raw.githubusercontent.com/Die-Gang/Versuch-Knautschzone/main/images/skizzephyf.png)
+*Versuchsaufbau*
 
 ### Durchführung
 
