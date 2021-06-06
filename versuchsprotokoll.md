@@ -180,19 +180,34 @@ In dem folgenden Diagramm sieht man, dass die Beschleunigung mit Knautschzone de
 *Vergleich Y-Beschleunigung: Ohne Knautschzone - Mit Knautschzone (Verschoben, für gleichzeitigen Aufprall)*
 
 ### Z-Achse
-- **Ohne Knautschzone:**
-- **Mit Kanutschzone:** 
+
+Der große Ausschlag bei der Fahrt ohne Knautschzone kam zustande, da das Fahrzeug beim Aufprall auf die Wand durch die Erschütterung mit den Hinterrädern ein Stück nach oben flog, dann von der Erdanziehungskraft zurück zum Boden gezogen wurde (der negative Ausschlag nach dem großen positiven Ausschalg) und erneut gegen die Wand prallte.
+
+Die kleinen Schwankungen (0-5) kommen von der Unwucht der Reifen.
 
 <span id="bild-7"></span>
 ![Vergleich Z-Beschleunigung (Verschoben): Ohne Knautschzone - Mit Knautschzone](https://raw.githubusercontent.com/Die-Gang/Versuch-Knautschzone/main/images/excimgverzf.png)
 *Vergleich Z-Beschleunigung: Ohne Knautschzone - Mit Knautschzone (Verschoben, für gleichzeitigen Aufprall)*
 
 ### X-Achse
-- **Ohne Knautschzone:**
-- **Mit Kanutschzone:** 
+
+Während das Fahrzeug ohne Knautschzone mit den Hinterrädern ein Stück nach oben flog (siehe Z-Achse), ist es auch ein Stück zur Seite gesprungen. Beim zweiten Aufprall ist das gleiche passiert, nur in schwächerem Ausmaße.
+
+Die Knautschzone hat den Aufprall gedämpft, dadurch kam die Verrückung des Fahrzeugs nicht zustande.
 
 <span id="bild-8"></span>
 ![Vergleich X-Beschleunigung (Verschoben): Ohne Knautschzone - Mit Knautschzone](https://raw.githubusercontent.com/Die-Gang/Versuch-Knautschzone/main/images/excimgverxf.png)
 *Vergleich X-Beschleunigung: Ohne Knautschzone - Mit Knautschzone (Verschoben, für gleichzeitigen Aufprall)*
 
 ## Auswertung
+
+### Messunsicherheiten
+
+- Mögliche Unterschiede bei erneuter Befestigung des Smartphones
+- Mögliche Unterschiede bei der Platzierung des Fahrzeugs
+- Mögliche Unterschiede bei Weg- und Radgegebenheiten des Fahrzeugs und der Strecke
+- Unterschiede bei der Masseverteilung mit und ohne Knautschzone (Bei dem Versuch ohne Knautschzone wurde die Knautschzone auf das Dach des Fahrzeugs geklebt, um den Versuch mit gleicher Masse durchzuführen)
+
+### Endergebnis
+
+Der Vorteil einer Knautschzone konnte mit diesem Vesuch gut verdeutlicht werden. Die 
