@@ -109,3 +109,6 @@
 
 ![Vergleich: Ohne Knautschzone - Mit Knautschzone](https://raw.githubusercontent.com/Die-Gang/Versuch-Knautschzone/main/images/excimgveryf.png)
 *Vergleich: Ohne Knautschzone - Mit Knautschzone (Verschoben, für gleichzeitigen Aufprall)*
+
+### Zeiteinheiten
+`1ZE` = `0,009933s`
