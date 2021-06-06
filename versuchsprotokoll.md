@@ -13,14 +13,14 @@ Führen Sie einen Crashtest gegen eine Wand ohne und mit einer geeigneten Knauts
 
 ### Material
 
-- Playmobil-Fahrzeug (<a href="#bild-1">Bild 1</a>)
+- Playmobil-Fahrzeug (<a href="#materialien">Anhang: Materialien</a>)
 - vier halbe Strohhalme
 - zwei Zahnstocher
-- Klebeband
+- Klebeband (<a href="#materialien">Anhang: Materialien</a>)
 - zwei Wattebällchen
-- Polstermaterial (<a href="#bild-1">Bild 1</a>)
+- Polstermaterial (<a href="#materialien">Anhang: Materialien</a>)
 - Brett (min. `60cm`)
-- Mäppchen (Sorgt für den Winkel der schiefen Ebene)
+- Mäppchen (Sorgt für den Winkel der schiefen Ebene) (<a href="#materialien">Anhang: Materialien</a>)
 
 ### Aufbau
 1. Die vier halben Strohhalme an den Ecken der Ladefläche befestigen.
@@ -32,12 +32,8 @@ Führen Sie einen Crashtest gegen eine Wand ohne und mit einer geeigneten Knauts
 7. Smartphone (oder ein anderes Gerät zum messen der Geschwindigkeit in X, Y und Z Richtung) wird mit Klebeband auf der Ladefläche des Fahrzeugs befestigt.(x-Achse zeigt in Richtung Wand)
 8. Schiefe Ebene mit einer Steigung von `4°` aufbauen
 
-<span id="bild-1"></span>
-
 ![Bilder der Knautschzone](https://raw.githubusercontent.com/Die-Gang/Versuch-Knautschzone/main/images/knazonbilf.png)
 *Bilder der Knautschzone*
-
-<span id="bild-2"></span>
 
 ![Versuchsaufbau](https://raw.githubusercontent.com/Die-Gang/Versuch-Knautschzone/main/images/skizzephyf.png)
 *Versuchsaufbau*
@@ -54,12 +50,8 @@ Führen Sie einen Crashtest gegen eine Wand ohne und mit einer geeigneten Knauts
 
 ### Screenshots aus der PhyPhox App
 
-<span id="bild-3"></span>
-
 ![Screenshot - Mit Knautschzone](https://raw.githubusercontent.com/Die-Gang/Versuch-Knautschzone/main/images/ssmk.png)
 *Screenshot - Mit Knautschzone*
-
-<span id="bild-4"></span>
 
 ![Screenshot - Ohne Knautschzone](https://raw.githubusercontent.com/Die-Gang/Versuch-Knautschzone/main/images/ssok.png)
 *Screenshot - Ohne Knautschzone*
@@ -179,8 +171,6 @@ Führen Sie einen Crashtest gegen eine Wand ohne und mit einer geeigneten Knauts
 
 In dem folgenden Diagramm sieht man, dass die Beschleunigung mit Knautschzone deutlich länger dauert, als ohne Knautschzone. Das führt dazu, dass die maximale Beschleunigung mit Knautschzone deutlich geringer ist. Die Beschleunigung ist die Kraft, die auch der Fahrer des Fahrzeugs erfährt und deshalb sollte die maximale Beschleunigung möglichst gering gehalten werden. In diesem Versuch ist sie durch die Knautschzone etwa halb so groß.
 
-<span id="bild-5"></span>
-
 ![Vergleich Y-Beschleunigung (Verschoben): Ohne Knautschzone - Mit Knautschzone](https://raw.githubusercontent.com/Die-Gang/Versuch-Knautschzone/main/images/excimgveryf.png)
 *Vergleich Y-Beschleunigung: Ohne Knautschzone - Mit Knautschzone (Verschoben, für gleichzeitigen Aufprall)*
 
@@ -192,8 +182,6 @@ Der große Ausschlag bei der Fahrt ohne Knautschzone kam zustande, da das Fahrze
 
 Die kleinen Schwankungen (`0` - `5`) kommen von der Unwucht der Reifen.
 
-<span id="bild-6"></span>
-
 ![Vergleich Z-Beschleunigung (Verschoben): Ohne Knautschzone - Mit Knautschzone](https://raw.githubusercontent.com/Die-Gang/Versuch-Knautschzone/main/images/excimgverzf.png)
 *Vergleich Z-Beschleunigung: Ohne Knautschzone - Mit Knautschzone (Verschoben, für gleichzeitigen Aufprall)*
 
@@ -202,8 +190,6 @@ Die kleinen Schwankungen (`0` - `5`) kommen von der Unwucht der Reifen.
 Während das Fahrzeug ohne Knautschzone mit den Hinterrädern ein Stück nach oben flog (<a href="#z-achse">siehe Z-Achse</a>), ist es auch ein Stück zur Seite gesprungen. Beim zweiten Aufprall ist das gleiche passiert, nur in schwächerem Ausmaße.
 
 Die Knautschzone hat den Aufprall gedämpft, dadurch kam die Verrückung des Fahrzeugs nicht zustande.
-
-<span id="bild-7"></span>
 
 ![Vergleich X-Beschleunigung (Verschoben): Ohne Knautschzone - Mit Knautschzone](https://raw.githubusercontent.com/Die-Gang/Versuch-Knautschzone/main/images/excimgverxf.png)
 *Vergleich X-Beschleunigung: Ohne Knautschzone - Mit Knautschzone (Verschoben, für gleichzeitigen Aufprall)*
@@ -224,6 +210,8 @@ Der Vorteil einer Knautschzone konnte mit diesem Vesuch gut verdeutlicht werden.
 Die Knautschzone aus diesem Versuch wäre an einem realen Auto eher unvorteilhaft, da sie vor dem Auto sehr viel Platz einnimmt. Dadurch ist die Sicht des Fahrers eingeschränkt, die Masse des Fahrzeugs erhöht und die Reduzierung der maximalen Beschleunigung ist vergleichsweise gering.
 
 ## Anhang
+
+<span id="materialien"></span>
 
 ![Materialien](https://raw.githubusercontent.com/Die-Gang/Versuch-Knautschzone/main/images/anhbilf.png)
 *Materialien: (von oben links, nach unten rechts) Playmobil-Fahrzeug, Klebeband, Mäppchen, großes Polstermaterial länglich, großes Polstermaterial seitlich, kleines Polstermaterial länglich, kleines Polstermaterial seitlich*
