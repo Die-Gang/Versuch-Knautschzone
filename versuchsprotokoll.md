@@ -167,6 +167,20 @@
 - **Ohne Knautschzone:** Die Geschwindigkeitsänderung dauert ungefähr `3` Zeiteinheiten. Das Fahrzeug erfährt eine maximale Beschleunigung von -40 m/s^2.
 - **Mit Kanutschzone:** Die Geschwindigkeitsänderung dauert ungefähr `17` Zeiteinheiten. Das Fahrzeug erfährt eine maximale Beschleunigung von -19 m/s^2.
 
-![Vergleich: Ohne Knautschzone - Mit Knautschzone](https://raw.githubusercontent.com/Die-Gang/Versuch-Knautschzone/main/images/excimgveryf.png)
-*Vergleich: Ohne Knautschzone - Mit Knautschzone (Verschoben, für gleichzeitigen Aufprall)*
+![Vergleich Y-Beschleunigung (Verschoben): Ohne Knautschzone - Mit Knautschzone](https://raw.githubusercontent.com/Die-Gang/Versuch-Knautschzone/main/images/excimgveryf.png)
+*Vergleich Y-Beschleunigung: Ohne Knautschzone - Mit Knautschzone (Verschoben, für gleichzeitigen Aufprall)*
+
+### Z-Achse
+- **Ohne Knautschzone:**
+- **Mit Kanutschzone:** 
+
+![Vergleich Z-Beschleunigung (Verschoben): Ohne Knautschzone - Mit Knautschzone](https://raw.githubusercontent.com/Die-Gang/Versuch-Knautschzone/main/images/excimgverzf.png)
+*Vergleich Z-Beschleunigung: Ohne Knautschzone - Mit Knautschzone (Verschoben, für gleichzeitigen Aufprall)*
+
+### X-Achse
+- **Ohne Knautschzone:**
+- **Mit Kanutschzone:** 
+
+![Vergleich X-Beschleunigung (Verschoben): Ohne Knautschzone - Mit Knautschzone](https://raw.githubusercontent.com/Die-Gang/Versuch-Knautschzone/main/images/excimgverxf.png)
+*Vergleich X-Beschleunigung: Ohne Knautschzone - Mit Knautschzone (Verschoben, für gleichzeitigen Aufprall)*
 
