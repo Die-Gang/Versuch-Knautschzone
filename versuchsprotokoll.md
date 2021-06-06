@@ -184,6 +184,8 @@ In dem folgenden Diagramm sieht man, dass die Beschleunigung mit Knautschzone de
 ![Vergleich Y-Beschleunigung (Verschoben): Ohne Knautschzone - Mit Knautschzone](https://raw.githubusercontent.com/Die-Gang/Versuch-Knautschzone/main/images/excimgveryf.png)
 *Vergleich Y-Beschleunigung: Ohne Knautschzone - Mit Knautschzone (Verschoben, für gleichzeitigen Aufprall)*
 
+<span id="z-achse"></span>
+
 ### Z-Achse
 
 Der große Ausschlag bei der Fahrt ohne Knautschzone kam zustande, da das Fahrzeug beim Aufprall auf die Wand durch die Erschütterung mit den Hinterrädern ein Stück nach oben flog, dann von der Erdanziehungskraft zurück zum Boden gezogen wurde (der negative Ausschlag nach dem großen positiven Ausschalg) und erneut gegen die Wand prallte.
@@ -197,7 +199,7 @@ Die kleinen Schwankungen (`0` - `5`) kommen von der Unwucht der Reifen.
 
 ### X-Achse
 
-Während das Fahrzeug ohne Knautschzone mit den Hinterrädern ein Stück nach oben flog (siehe Z-Achse), ist es auch ein Stück zur Seite gesprungen. Beim zweiten Aufprall ist das gleiche passiert, nur in schwächerem Ausmaße.
+Während das Fahrzeug ohne Knautschzone mit den Hinterrädern ein Stück nach oben flog (<a href="#z-achse">siehe Z-Achse</a>), ist es auch ein Stück zur Seite gesprungen. Beim zweiten Aufprall ist das gleiche passiert, nur in schwächerem Ausmaße.
 
 Die Knautschzone hat den Aufprall gedämpft, dadurch kam die Verrückung des Fahrzeugs nicht zustande.
 
